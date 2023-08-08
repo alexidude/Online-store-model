@@ -1,1 +1,36 @@
+---
+- summary: |
+    Открытие карточки товара
+  status: fail
 
+- summary: |
+    Проверка каталога магазина
+  status: fail
+
+- summary: |
+     Отображение добавленного товара в Корзине
+  status: pass
+
+- summary: |
+     Отображение добавления товара в Корзину
+  status: pass
+
+- summary: |
+     Проверка удаления товара
+  status: pass
+
+- summary: |
+     Проверка страницы корзины
+  status: pass
+
+- summary: |
+     Проверка оплаты товара
+  status: fail
+
+- summary: |
+     Фильтрация по ключевому слову
+  status: pass
+
+  - summary: |
+     Проверка фильтра производитель
+  status: pass
