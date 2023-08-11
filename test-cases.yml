@@ -6,7 +6,7 @@
   prerequisites: |
     Открыта страница каталога
   test-data: |
-    товар = Iphone 9
+    Товар = Iphone 9
   steps:
     - Выбираем товар
     - Нажимаем на товар
@@ -20,9 +20,9 @@
   prerequisites: |
     Открыта страница каталога
   test-data: |
-    MacBook Pro
+    Товар = MacBook Pro
   steps:
-    - Просматриваем товары в каталоге
+    - Выбираем товар
   expected-result: |
     Отображается название, рейтинг, цена со скидкой и без
 
@@ -33,7 +33,7 @@
   prerequisites: |
     Открыта страница каталога
   test-data: |
-    товар = Key Holder
+    Товар = Key Holder
   steps:
     - Выбрать товар
     - Добавить в корзину
@@ -48,7 +48,7 @@
   prerequisites: |
     Открыта страница каталога
   test-data: |
-    товар 1 = iPhone 9 товар 2 = MacBook Pro
+    Товар 1 = iPhone 9 Товар 2 = MacBook Pro
   steps:
     - Выбрать товар 1
     - Добавить в корзину
@@ -64,7 +64,7 @@
   prerequisites: |
     Открыта страница каталога
   test-data: |
-    Товар = Iphone
+    Товар = perfume Oil
   steps:
     - Выбрать товар
     - Добавить в корзину
@@ -80,7 +80,7 @@
   prerequisites: |
     Открыта страница каталога
   test-data: |
-    Товар = iPhone X
+    Товар = Samsung Galaxy Book
   steps:  
     - Выбрать товар
     - Добавить в корзину
@@ -96,7 +96,7 @@
   prerequisites: |
     Открыта страница каталога
   test-data: |
-    Товар = Iphone
+    Товар = OPPOF19
   steps:
     - Выбрать товар
     - Добавить в корзину
@@ -112,7 +112,7 @@
   prerequisites: |
    Открыта страница каталога
   test-data: |
-   товар = Iphone
+   Товар = Huawei P30
   steps:
     - В поиск вводим товар
   expected-result: |
@@ -125,7 +125,7 @@
   prerequisites:
     Открыта страница каталога
   test-data: |
-   товар = Samsung
+   Товар = Samsung Universe 9
   steps:
     - В списке Производитель выбираем товар
     - Отмечаем товар галочкой
@@ -139,7 +139,7 @@
   prerequisites:
     Открыта страница каталога
   test-data: |
-   товар = iPhone X
+   Товар = iPhone X
   steps:
     - Выбираем товар
     - Нажимаем на товар
