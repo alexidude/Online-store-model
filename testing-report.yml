@@ -38,3 +38,47 @@
 - summary: |
      Отображение подробной информации о товаре 
   status: fail
+
+- summary: |
+     Проверка фильтра 'Цена'
+  status: fail
+
+- summary: |
+     Проверка фильтра 'В наличии'
+  status: fail
+
+- summary: |
+     Проверка навигации по страницам магазина
+  status: fail
+
+- summary: |
+     Проверка хештегов на странице товара
+  status: fail
+
+- summary: |
+     Отображение языка на странице
+  status: fail
+
+- summary: |
+    Отображение сайта в портретной ориентации
+  status: fail
+
+- summary: |
+    Отображение сайта в альбомной ориентации
+  status: pass
+
+- summary: |
+    Отображение сайта в браузере Mozilla Firefox
+  status: pass
+
+- summary: |
+    Отображение сайта в браузере Яндекс Браузер
+  status: pass
+
+- summary: |
+    Проверка запроса удаления товара из корзины
+  status: fail
+
+- summary: |
+     Отображение подробной информации о товаре 
+  status: fail
