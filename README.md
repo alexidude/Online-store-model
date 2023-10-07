@@ -1,1 +1,1 @@
-Тестирование интернет-магазина наполнненый багами.
+Testing an online store filled with bugs.
